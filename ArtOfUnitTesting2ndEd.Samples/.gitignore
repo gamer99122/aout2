@@ -1,0 +1,21 @@
+# Visual Studio 緩存和臨時檔案
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# 編譯輸出
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet 包（本地緩存，不需要版控）
+packages/
+
+# 應用程式設定檔
+*.config
+
+# 編譯後的組件
+*.dll
+*.pdb
